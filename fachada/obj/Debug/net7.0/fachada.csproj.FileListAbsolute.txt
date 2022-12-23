@@ -1,0 +1,15 @@
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.csproj.AssemblyReference.cache
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.AssemblyInfoInputs.cache
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.AssemblyInfo.cs
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.csproj.CoreCompileInputs.cache
+C:\Users\we1rd\OneDrive\Escritorio\fachada\bin\Debug\net7.0\fachada.exe
+C:\Users\we1rd\OneDrive\Escritorio\fachada\bin\Debug\net7.0\fachada.deps.json
+C:\Users\we1rd\OneDrive\Escritorio\fachada\bin\Debug\net7.0\fachada.runtimeconfig.json
+C:\Users\we1rd\OneDrive\Escritorio\fachada\bin\Debug\net7.0\fachada.dll
+C:\Users\we1rd\OneDrive\Escritorio\fachada\bin\Debug\net7.0\fachada.pdb
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.dll
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\refint\fachada.dll
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.pdb
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\fachada.genruntimeconfig.cache
+C:\Users\we1rd\OneDrive\Escritorio\fachada\obj\Debug\net7.0\ref\fachada.dll
